@@ -1,13 +1,10 @@
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: jekyllrb
-github_username:  jekyll
-
-minimal_mistakes_skin: default
+title: Gerrit und wie er die Welt sieht.
+email: mail@gerritbeine.de
+description: >- 
+  Gerrit schreibt über Agilität, Management, IT, Sozialwissenschaft und Ökonomie.
+  Ab und zu verirren sich auch mal Artikel über Heimautomatisierung und Linux hierhin.
+  Achja... und Meinungen zu Büchern.
+minimal_mistakes_skin: mint
 search: true
 
 # Build settings
@@ -32,34 +29,44 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name : Gerrit Beine
+  avatar : # "/assets/images/bio-photo.jpg"
+  bio : Software-Philosoph,<br/> Informatik-Vagabund,<br/> Nimmermüder Verbesserer.
+  location : "Plauen, Germany"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:mail@gerritbeine.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://gerritbeine.de"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/gerritbeine"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/gerritbeine"
+    - label: "Xing"
+      icon: "fab fa-fw fa-xing"
+      url: "https://www.xing.com/profile/Gerrit_Beine"
+    - label: "Medium"
+      icon: "fab fa-fw fa-medium"
+      url: "https://medium.com/@gerritbeine"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/gbeine"
+    - label: "SlideShare"
+      icon: "fab fa-fw fa-slideshare"
+      url: "https://www.slideshare.net/gerritbeine"
 
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/gerritbeine"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/gbeine"
 
 defaults:
   # _posts
@@ -70,16 +77,16 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+ #     comments: true
       share: true
       related: true
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+  # # _pages
+  # - scope:
+  #     path: "_pages"
+  #     type: pages
+  #   values:
+  #     layout: single
+  #     author_profile: true
 
 category_archive:
   type: liquid

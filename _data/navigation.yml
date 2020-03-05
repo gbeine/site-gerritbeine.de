@@ -1,9 +1,13 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Projekte"
+    url: /projects/
+  - title: "Publikationen"
+    url: /published/
+  - title: "Vorträge"
+    url: /talks/
+  - title: "Impressum"
+    url: /imprint/
