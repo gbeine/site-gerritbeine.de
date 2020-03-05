@@ -58,6 +58,12 @@ author:
     - label: "SlideShare"
       icon: "fab fa-fw fa-slideshare"
       url: "https://www.slideshare.net/gerritbeine"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCqu6H_0moQmU77YRpsaWudg"
+    - label: "Feed"
+      icon: "fas fa-fw fa-rss"
+      url: "https://gerritbeine.de/feed.xml"
 
 footer:
   links:
@@ -94,3 +100,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+feed:
+  categories:
+    - agile
