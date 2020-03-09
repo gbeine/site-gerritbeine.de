@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Scaling Agile simulieren mit dem getKanban Board Game"
+title: Scaling Agile simulieren mit dem getKanban Board Game
 categories: agile
 tags: agile
 ---
@@ -37,7 +37,7 @@ Die Erkenntnisse der Teilnehmer treten nicht zwangsläufig in einer bestimmten R
 ### Abhängigkeiten im Deployment
 Die Abhängigkeiten im Deployment werden sehr schnell sichtbar, spätestens am Tag 12. Manchmal erkennen Teams schon vorher, dass sie etwas tun müssen, um deployment-fähig zu werden. Dabei werden die Effekte von Pete und Carlos durch die Scaling-Regel noch verstärkt.
 
-Im Idealfall erkennen die Teams früh, dass sie sich synchronisieren müssen und dass das Deployment dafür eigentlich zu spät ist. Ein sichtbares Board auf einem Plipchart ist eine gute Lösung. So ein Board bereite ich auch immer schon vor.
+Im Idealfall erkennen die Teams früh, dass sie sich synchronisieren müssen und dass das Deployment dafür eigentlich zu spät ist. Ein sichtbares Board auf einem Flipchart ist eine gute Lösung. So ein Board bereite ich auch immer schon vor.
 
 ### Planen und Replenishment
 Damit die Teams an den gleichen Dingen arbeiten, müssen sie sich hinsichtlich ihrer Replenishments abstimmen. Das passiert idealerweise durch die Product Owner vor dem Replenishment - also zum Beispiel für den Tag 14, während sich das Team durch den Tag 13 würfelt.
