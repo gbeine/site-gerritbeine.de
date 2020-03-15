@@ -20,8 +20,11 @@ timezone: Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time
 include:
   - _pages
 exclude:
-  - ".Ulysses-Group.plist"
-  - ".Ulysses-Settings.plist"
+  - .Ulysses-Group.plist
+  - .Ulysses-Settings.plist
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
   - .bundle
   - vendor
 keep_files:
