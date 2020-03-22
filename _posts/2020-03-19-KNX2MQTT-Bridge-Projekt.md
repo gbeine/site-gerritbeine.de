@@ -2,7 +2,7 @@
 layout: single
 title: KNX2MQTT Bridge-Projekt
 categories: homeautomation
-tags: homeautomation, github
+tags: homeautomation github
 ---
 In meinem Haus benutze ich den [Home Assistent][1] zur Steuerung von Heizung, Sonnenschutz und anderen technischen Anlagen.
 Der funktioniert ziemlich gut, hat aber natürlich auch ein paar Schwächen.
