@@ -10,6 +10,10 @@ Wie auf Twitter angekündigt, möchte ich einen Guided Reading-Kreis starten.
 Interessierte scheint es ja eine ganze Menge zu geben.
 Daher möchte ich auf dieser Seite kurz beschreiben, wie das funktionieren kann.
 
+Zum Meetup [The Guided Reading Guild](https://www.meetup.com/de-DE/The-Guided-Reading-Guild/)
+{: .text-center}
+{: .notice--warning}
+
 ## Guided Reading im Prinzip
 
 Beim Guided Reading lesen Menschen Bücher oder Artikel und sprechen darüber.
