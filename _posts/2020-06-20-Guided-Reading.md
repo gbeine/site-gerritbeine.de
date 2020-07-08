@@ -60,7 +60,18 @@ Es gibt einige Bücher und Artikel, die ich und andere gerne lesen und disktiere
 Das Backlog ist nicht priorisiert, sondern nur eine Liste von Vorschlägen.
 
 * Luhmann, Niklas: [Vertrauen. Ein Mechanismus der Reduktion sozialer Komplexität](https://www.goodreads.com/book/show/7727150-vertrauen-ein-mechanismus-der-reduktion-sozialer-komplexit-t)
-* Kühl, Stefan: [Organisationskultur: Eine Konkretisierung aus systemtheoretischer Perspektive](https://pub.uni-bielefeld.de/download/2931717/2931718/K%C3%BChl%202018%20Organisationskultur%20Managementforschung.pdf) [Vorschlag von Holger Gelhausen](https://twitter.com/HolgerGelhausen/status/1274022821585473536?s=20)
+* Kühl, Stefan: [Organisationskultur: Eine Konkretisierung aus systemtheoretischer Perspektive](https://pub.uni-bielefeld.de/download/2931717/2931718/K%C3%BChl%202018%20Organisationskultur%20Managementforschung.pdf) <br/> [Vorschlag von Holger Gelhausen](https://twitter.com/HolgerGelhausen/status/1274022821585473536?s=20)
+* Wohland, Gerhard & Wiemeyer, Matthias: [Denkwerkzeuge der Höchstleister](https://www.goodreads.com/book/show/2219387.Denkwerkzeuge_der_H_chstleister) <br/> [Vorschlag von Daniel Räder](https://twitter.com/geraederter_dan/status/1274289915002597377?s=20)
+* Mazzucato, Mariana: [Wie kommt der Wert in die Welt?](https://www.goodreads.com/book/show/53519773-wie-kommt-der-wert-in-die-welt) <br/> [Vorschlag von Matthias Möhring](https://twitter.com/MathiasMoehring/status/1274307804170502153?s=20)
+* *Verfügbarmachen oder Geschehen lassen?* aus Rosa, Hartmut: [Unverfügbarkeit](https://www.goodreads.com/book/show/43240561-unverf-gbarkeit) <br/> [Vorschlag von Franziska Köppe](https://twitter.com/madiko/status/1280745306771140610?s=20)
+* *Dynamische Stabilisierung* aus Rosa, Hartmut: [Resonanz](https://www.goodreads.com/book/show/29765770-resonanz) <br/> [Vorschlag von Franziska Köppe](https://twitter.com/madiko/status/1280745306771140610?s=20)
+* *Postwachstum* aus Rosa, Hartmut: [Resonanz](https://www.goodreads.com/book/show/29765770-resonanz) <br/> [Vorschlag von Franziska Köppe](https://twitter.com/madiko/status/1280745306771140610?s=20)
+* White, Harrison C. [Identity and Control](https://www.goodreads.com/book/show/2875174-identity-and-control) <br/> [Vorschlag von Ralf Kruse](https://twitter.com/ralfhh)
+* Brafman, Ori & Beckstrom, Rod: [The Starfish and the Spider](https://www.goodreads.com/book/show/21314.The_Starfish_and_the_Spider) <br/> [Vorschlag von Ralf Kruse](https://twitter.com/ralfhh)
+* Rumelt, Richard P.: [Good Strategy/Bad Strategy](https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy) <br/> [Vorschlag von Ralf Kruse](https://twitter.com/ralfhh)
+* Heen, Sheila & Stone, Douglas: [Thanks for the Feedback](https://www.goodreads.com/book/show/18114120-thanks-for-the-feedback) <br/> [Vorschlag von Ralf Kruse](https://twitter.com/ralfhh)
+* The Arbinger Institute: [Leadership and Self-Deception](https://www.goodreads.com/book/show/180463.Leadership_and_Self_Deception) <br/> [Vorschlag von Ralf Kruse](https://twitter.com/ralfhh)
+
 
 **Disclaimer** Ich habe bezüglich mancher Ideen aus Büchern und Artikeln sehr kritische Erfahrungen gemacht.
 Aus diesem Grund kann es sein, dass ich ein Buch mit einem entsprechenden Kommentar ablehne.
