@@ -116,7 +116,8 @@ Schlussendlich schauen wir uns natürlich, was das ganze Messen für die Anwende
 
 * Usability und User Experience
 * Das Dreieck User Experience-Architektur-Qualität
-* …
+* Mensch-Computer-Interaktion (ISO 9241)
+* 
 
 ### Material und weiterführende Links
 
@@ -193,6 +194,59 @@ Termine, Beispielfragen und weitere Details zur Prüfung werden rechtzeitig hier
 * Haben die späteren Teilnehmer nicht einen Vorteil?  
   A: Könnte man denken, passiert aber nicht. ;-)
 
+### Beispiele zu den Prüfungsfragen
+
+Hinweis: Qualität bezieht sich in diesem Kontext immer auf Software.
+
+* Nenne und erkläre eine Definition von Qualität für Software.
+* Welche Qualitätsmerkmale beschreibt die ISO 25010?
+* Welche Bereiche gehören zum Qualitätsmanagement?
+* Beschreibe das magische Dreieck der Qualität.
+* Was ist Messen?
+* Was ist eine Metrik und wie kann sie abgebildet werden?
+* Was gehört zur Vorbereitung einer Messung?
+* Warum sollte man Qualität messen?
+* Welche Dimensionen von Qualität beschreibt Sneed?
+* Welche Messobjekte beschreibt Sneed?
+* Beschreibe den E4 Measurement Process.
+* Welche Herausforderungen gibt es bei der Messung von Qualität?
+* Erkläre die zyklomatische Komplexität nach McCabe?
+* Erkläre die Martin-Metrik
+* Welche Perspektiven auf Software-Architektur müssen hinsichtlich der Qualität betrachtet werden?
+* Beschreibe den Prozess einer Architekturbewertung nach ATAM.
+* Nenne und erkläre zwei der Metriken von Chidamber und Kemerer.
+* Wie kann Prozessqualität gemessen werden?
+* Erkläre die Goal-Question-Metrik-Methode mit einem Beispiel.
+* Nenne und erkläre eine Definition für Software-Architektur.
+* Wo ordnet sich Software-Architektur in den anderen Architekturdisziplinen ein?
+* Welche Aufgaben mit Qualitätsbezug haben Software-Architekten?
+* Welche Kommunikationswerkzeuge stehen Architekten zur Verfügung?
+* Was sind technische Schulden?
+* Was besagen Lehman's Laws?
+* Wie klassifiziert Fowler technische Schulden?
+* Erkläre die 5 Orders of Ignorance anhand eines Beispiels.
+* Erkläre das Technical Debt Balance Sheet.
+* Erkläre Conway's Law.
+* Wie ist die häufigste Fehlinterpretation von Conways's Law in der IT?
+* Erkläre Komponenten-Teams und Feature-Teams.
+* Wann solche welche Art von Team genutzt werden?
+* Aus welchen Elementen besteht ein Pattern?
+* Wie können projektspezifische Pattern erkannt werden?
+* Beschreibe die vier Kategorien von Vorgehensmustern für Architektur mit jeweils einem Beispiel.
+* Wie lautet die Definition von Usability?
+* Wie lautet die Definition von User Experience?
+* Beschreibe den menschenzentrierten Gestaltungsprozess.
+* Beschreibe drei wichtige Teile der ISO 9241.
+* Erkläre das ABC-Modell.
+* Erkläre den Prozess des Usability Engineering.
+* Was sind die 7 Grundsätze der Dialoggestaltung nach ISO 9241-110?
+* Erkläre drei Praktiken aus dem Usability Engineering.
+* Erkläre drei wichtige Entwurfsprinzipien.
+* Erkläre drei Beispiele für wichtige Kapitel einer Usability-Guideline.
+* Erkläre GOMS an einem Beispiel.
+* Welche zusätzlichen Aspekte beschreiben Sarodnick & Brau im Vergleich zur ISO 9241?
+* Was war die herausragende Erkenntnis von Landauer & Neilson zu Usability Tests?
+
 ## Updates vom 05.04.2020
 
 * Die Termine für die Prüflungsvorleistung sind verschoben auf den **15.06.2020** und den **29.06.2020**
@@ -206,6 +260,10 @@ Termine, Beispielfragen und weitere Details zur Prüfung werden rechtzeitig hier
 * Die Prüfung findet in MS Teams statt
   * Beide Prüfer und die Prüflinge arbeiten mit aktiviertem Video
   * Es wird ein digitales Whiteboard für Notizen zur Verfügung gestellt
+
+## Updates vom 18.05.2020
+
+* Die Beispiele für Prüfungsfragen sind verfügbar
 
 ## Sonstiges
 
