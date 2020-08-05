@@ -51,21 +51,22 @@ Die Daten zur zoom-Session werden dann via Meetup verteilt.
 4. Anspruch an die Lektüre - die Bücher und Artikel sollen fundiert sein - für Berater:innen-Prospekte, die auf anekdotischer Evidenz basieren, ist das Leben zu kurz
 5. Uneinigkeit bringt Erkenntnis - Ziel ist nicht Einigkeit aller Leser:innen zu einem Thema, sondern gemeinsam etwas zu lernen
 6. If you have no data, you're just another person with an opinion - die Diskussion sollte sachbezogen sein, nicht meinungsbezogen
-7. Kenne deine Sprache - nutze die Begriffe anhand der Definitinonen der Lektüre - auch das ist eine Form von Achtsamkeit und Respekt
-8. Sei dabei oder nicht - das Format funktioniert nur, wenn man die gesamte Diskussion miterlebt - wenn du es nicht pünktlich schaffst, dann beschränke dich aufs zuhören
+7. Kenne deine Sprache - nutze die Begriffe anhand der Definitionen der Lektüre - auch das ist eine Form von Achtsamkeit und Respekt
+8. Sei dabei oder nicht - das Format funktioniert nur, wenn man die gesamte Diskussion miterlebt - wenn du es nicht pünktlich schaffst, dann beschränke dich aufs Zuhören
+9. Es geht um die Inhalte, nicht um Personen - wir besprechen Texte und wie man sie lesen kann. Fragen wie "was hat das mit dir gemacht" oder Aussagen wie "für mich ist..." sind in diesem Format nicht nützlich.
+10. Ratgeberliteratur, so nützlich sie dir auch für deine persönliche Situation erschien, ist für das Guided Reading nicht geeignet.
 
 Wenn dein Buch oder Artikel diskutiert wird:
-* Stelle zwei bis drei Fragen ein bis zwei Tage vor der Diskussion zur Verfügung
+* Stelle drei bis fünf Fragen zwei Tage vor der Diskussion zur Verfügung
 * Sei dir deines Wissensvorsprungs bewusst: auch wenn du es zum ersten Mal mit den anderen gemeinsam liest, hast du bereits anders darüber nachgedacht 
 
 ## Lektüre-Backlog
 
-Es gibt einige Bücher und Artikel, die ich und andere gerne lesen und disktieren würden.
+Es gibt einige Bücher und Artikel, die aus der Gilde zum lesen und diskutieren vorgeschlagen wurden.
 Das Backlog ist nicht priorisiert, sondern nur eine Liste von Vorschlägen.
 
-* Luhmann, Niklas: [Vertrauen. Ein Mechanismus der Reduktion sozialer Komplexität](https://www.goodreads.com/book/show/7727150-vertrauen-ein-mechanismus-der-reduktion-sozialer-komplexit-t)
-* Kühl, Stefan: [Organisationskultur: Eine Konkretisierung aus systemtheoretischer Perspektive](https://pub.uni-bielefeld.de/download/2931717/2931718/K%C3%BChl%202018%20Organisationskultur%20Managementforschung.pdf) <br/> [Vorschlag von Holger Gelhausen](https://twitter.com/HolgerGelhausen/status/1274022821585473536?s=20)
 * Wohland, Gerhard & Wiemeyer, Matthias: [Denkwerkzeuge der Höchstleister](https://www.goodreads.com/book/show/2219387.Denkwerkzeuge_der_H_chstleister) <br/> [Vorschlag von Daniel Räder](https://twitter.com/geraederter_dan/status/1274289915002597377?s=20)
+* Gümüşay, Kübra: [Sprache und Sein](https://www.goodreads.com/book/show/50243029-sprache-und-sein) <br/> [Vorschlag von Alper Aslan](https://twitter.com/AlperAslan1980/status/1289149792241815552)
 * Mazzucato, Mariana: [Wie kommt der Wert in die Welt?](https://www.goodreads.com/book/show/53519773-wie-kommt-der-wert-in-die-welt) <br/> [Vorschlag von Matthias Möhring](https://twitter.com/MathiasMoehring/status/1274307804170502153?s=20)
 * *Verfügbarmachen oder Geschehen lassen?* aus Rosa, Hartmut: [Unverfügbarkeit](https://www.goodreads.com/book/show/43240561-unverf-gbarkeit) <br/> [Vorschlag von Franziska Köppe](https://twitter.com/madiko/status/1280745306771140610?s=20)
 * *Dynamische Stabilisierung* aus Rosa, Hartmut: [Resonanz](https://www.goodreads.com/book/show/29765770-resonanz) <br/> [Vorschlag von Franziska Köppe](https://twitter.com/madiko/status/1280745306771140610?s=20)
@@ -80,3 +81,8 @@ Das Backlog ist nicht priorisiert, sondern nur eine Liste von Vorschlägen.
 **Disclaimer** Ich habe bezüglich mancher Ideen aus Büchern und Artikeln sehr kritische Erfahrungen gemacht.
 Aus diesem Grund kann es sein, dass ich ein Buch mit einem entsprechenden Kommentar ablehne.
 Auch das ist Verantwortung.
+
+## Gelesenes
+
+* Luhmann, Niklas: [Vertrauen. Ein Mechanismus der Reduktion sozialer Komplexität](https://www.goodreads.com/book/show/7727150-vertrauen-ein-mechanismus-der-reduktion-sozialer-komplexit-t)
+* Kühl, Stefan: [Organisationskultur: Eine Konkretisierung aus systemtheoretischer Perspektive](https://pub.uni-bielefeld.de/download/2931717/2931718/K%C3%BChl%202018%20Organisationskultur%20Managementforschung.pdf)
