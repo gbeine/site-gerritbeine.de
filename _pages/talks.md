@@ -9,6 +9,10 @@ author_profile: true
 
 Aufzeichnungen zu einigen der Vorträge sind auf [Youtube](https://www.youtube.com/playlist?list=PLl4NFxSafINJdsDeOG1YdkXo7QknK-dQn) verfügbar.
 
+### 2021
+
+* geplant 1/2021: Conway’s Law & Soziologie in der Software-Architektur, OOP, München
+
 ### 2020
 
 * geplant 11/2020: Zu viel des Guten - Agiles Coaches als Mobbing-Treiber, Manage Agile, Berlin
