@@ -2,10 +2,24 @@
 title: "Vorträge"
 permalink: /talks/
 layout: single
-author\_profile: true
+author_profile: true
 ---
 
 ## Gesprochenes - Konferenzen und Vorträge
+
+Aufzeichnungen zu einigen der Vorträge sind auf [Youtube](https://www.youtube.com/playlist?list=PLl4NFxSafINJdsDeOG1YdkXo7QknK-dQn) verfügbar.
+
+### 2020
+
+* geplant 11/2020: Zu viel des Guten - Agiles Coaches als Mobbing-Treiber, Manage Agile, Berlin
+* geplant 11/2020: Auf Lesereise mit Frit und Fred, Manage Agile, Berlin
+* geplant 11/2020: Modernes Risiko-Management für Software-Architektur, W-JAX, München
+* geplant 11/2020: Zu viel des Guten - Agiles Coaches als Mobbing-Treiber, iterate=>ruhr, Dortmund
+* geplant 10/2020: Auf Lesereise mit Frit und Fred, Agiler Stammtisch Rhein-Main
+* geplant 10/2020: Modernes Risiko-Management für Software-Architektur, Software Architecture Gathering, München
+* geplant 9/2020: Mastering Cargo Cult – Dunning, Kruger und die Agile Bias Curve, JAX, Mainz
+* 7/2020: Auf Lesereise mit Frit und Fred, Agile World, München
+* 1/2020: Mastering Cargo Cult – Dunning, Kruger und die Agile Bias Curve, JUG Saxony, Uni Halle
 
 ### 2019
 
