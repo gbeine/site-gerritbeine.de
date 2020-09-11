@@ -65,9 +65,6 @@ Wenn dein Buch oder Artikel diskutiert wird:
 Es gibt einige Bücher und Artikel, die aus der Gilde zum lesen und diskutieren vorgeschlagen wurden.
 Das Backlog ist nicht priorisiert, sondern nur eine Liste von Vorschlägen.
 
-* Wohland, Gerhard & Wiemeyer, Matthias: [Denkwerkzeuge der Höchstleister](https://www.goodreads.com/book/show/2219387.Denkwerkzeuge_der_H_chstleister) <br/> [Vorschlag von Daniel Räder](https://twitter.com/geraederter_dan/status/1274289915002597377?s=20)
-* Gümüşay, Kübra: [Sprache und Sein](https://www.goodreads.com/book/show/50243029-sprache-und-sein) <br/> [Vorschlag von Alper Aslan](https://twitter.com/AlperAslan1980/status/1289149792241815552)
-* Mazzucato, Mariana: [Wie kommt der Wert in die Welt?](https://www.goodreads.com/book/show/53519773-wie-kommt-der-wert-in-die-welt) <br/> [Vorschlag von Matthias Möhring](https://twitter.com/MathiasMoehring/status/1274307804170502153?s=20)
 * *Verfügbarmachen oder Geschehen lassen?* aus Rosa, Hartmut: [Unverfügbarkeit](https://www.goodreads.com/book/show/43240561-unverf-gbarkeit) <br/> [Vorschlag von Franziska Köppe](https://twitter.com/madiko/status/1280745306771140610?s=20)
 * *Dynamische Stabilisierung* aus Rosa, Hartmut: [Resonanz](https://www.goodreads.com/book/show/29765770-resonanz) <br/> [Vorschlag von Franziska Köppe](https://twitter.com/madiko/status/1280745306771140610?s=20)
 * *Postwachstum* aus Rosa, Hartmut: [Resonanz](https://www.goodreads.com/book/show/29765770-resonanz) <br/> [Vorschlag von Franziska Köppe](https://twitter.com/madiko/status/1280745306771140610?s=20)
@@ -86,3 +83,6 @@ Auch das ist Verantwortung.
 
 * Luhmann, Niklas: [Vertrauen. Ein Mechanismus der Reduktion sozialer Komplexität](https://www.goodreads.com/book/show/7727150-vertrauen-ein-mechanismus-der-reduktion-sozialer-komplexit-t)
 * Kühl, Stefan: [Organisationskultur: Eine Konkretisierung aus systemtheoretischer Perspektive](https://pub.uni-bielefeld.de/download/2931717/2931718/K%C3%BChl%202018%20Organisationskultur%20Managementforschung.pdf)
+* Wohland, Gerhard & Wiemeyer, Matthias: [Denkwerkzeuge der Höchstleister](https://www.goodreads.com/book/show/2219387.Denkwerkzeuge_der_H_chstleister) <br/> [Vorschlag von Daniel Räder](https://twitter.com/geraederter_dan/status/1274289915002597377?s=20)
+* Gümüşay, Kübra: [Sprache und Sein](https://www.goodreads.com/book/show/50243029-sprache-und-sein) <br/> [Vorschlag von Alper Aslan](https://twitter.com/AlperAslan1980/status/1289149792241815552)
+* Mazzucato, Mariana: [Wie kommt der Wert in die Welt?](https://www.goodreads.com/book/show/53519773-wie-kommt-der-wert-in-die-welt) <br/> [Vorschlag von Matthias Möhring](https://twitter.com/MathiasMoehring/status/1274307804170502153?s=20)
