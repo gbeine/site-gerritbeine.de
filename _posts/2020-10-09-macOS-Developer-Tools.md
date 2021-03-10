@@ -65,3 +65,9 @@ Geholfen haben mir dabei zwei Threads auf Stackoverflow:
 
 * [How to switch between multiple Command Line Tools installations in Mac OS X (without installing XCode)](https://stackoverflow.com/questions/47455245/how-to-switch-between-multiple-command-line-tools-installations-in-mac-os-x-wit)
 * [How to extract contents from 'Payload' file in a apple macOS update package?](https://stackoverflow.com/questions/41166805/how-to-extract-contents-from-payload-file-in-a-apple-macos-update-package)
+
+## OpenWRT bauen
+
+* [Setup MacOSX as an OpenWrt build environment](https://openwrt.org/docs/guide-developer/easy.build.macosx)
+* [OpenWrt Buildroot – Installation on macOS](https://openwrt.org/docs/guide-developer/buildroot.exigence.macosx)
+
