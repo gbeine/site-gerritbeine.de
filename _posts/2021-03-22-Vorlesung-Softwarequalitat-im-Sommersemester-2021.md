@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Vorlesung Softwarequalität im Sommersemster 2021
+title: Vorlesung Softwarequalität im Sommersemester 2021
 categories: lecture
 tags: lecture
 toc: true

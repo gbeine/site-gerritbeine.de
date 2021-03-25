@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Vorlesung Softwarequalität im Sommersemster 2020
+title: Vorlesung Softwarequalität im Sommersemester 2020
 categories: lecture
 tags: lecture
 toc: true
