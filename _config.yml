@@ -20,8 +20,6 @@ timezone: Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time
 include:
   - _pages
 exclude:
-  - .Ulysses-Group.plist
-  - .Ulysses-Settings.plist
   - CNAME
   - Gemfile
   - Gemfile.lock
@@ -50,12 +48,12 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://gerritbeine.de"
-    - label: "Location"
-      icon: "fas fa-map-marked-alt"
-      url: "https://outlook.office365.com/calendar/published/ded47a84df0143138091a71fd6dea769@gerritbeine.com/5af3596edbd941c3aaa539ea5700d6371185389471357422783/calendar.html"
-    - label: "Calendly"
+    - label: "Calendar"
+      icon: "far fa-calendar-alt"
+      url: "https://calendar.gerritbeine.com/"
+    - label: "Book me"
       icon: "far fa-calendar-check"
-      url: "https://calendly.com/gerritbeine/"
+      url: "https://bookme.gerritbeine.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/gerritbeine"
