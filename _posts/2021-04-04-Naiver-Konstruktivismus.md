@@ -53,10 +53,10 @@ Und wer noch nicht so weit ist, der trägt selbst die Verantwortung: er oder sie
 ## Verantwortung konstruieren
 
 "Manieren machen uns zu Menschen" sagt Galahad in Kingsmen.
-Ich denke, es sind nicht nur die Manieren - auch wenn sie einen großen Teil dazu beitragen -, es sind vor allem zwei Fähigkeiten: ersten die Fähigkeit, Konzepte zu konstruieren, und zweitens die Fähigkeit, als Gemeinschaft solidarisch zu handeln.
+Ich denke, es sind nicht nur die Manieren - auch wenn sie einen großen Teil dazu beitragen -, es sind vor allem zwei Fähigkeiten: erstens die Fähigkeit, Konzepte zu konstruieren, und zweitens die Fähigkeit, als Gemeinschaft solidarisch zu handeln.
 
 Sowohl der Konstruktivismus als auch Verantwortung sind Konstruktionen.
-Diese konzeptionelle Rekursion zu erkennen macht das Verstehen von Konstruktivismus aus (ich vermute, deshalb wollten Maturane und Varela nicht "Konstruktivisten" genannt werden).
+Diese konzeptionelle Rekursion zu erkennen macht das Verstehen von Konstruktivismus aus (ich vermute, deshalb wollten Maturana und Varela nicht "Konstruktivisten" genannt werden).
 
 Die Verantwortung auf die naive Weise zu konstruieren und jedem Individuum gleichermaßen zuzusprechen ignoriert völlig die Wechselwirkungen, die im sozialen Miteinander stattfinden.
 Sie ignoriert auch völlig die Unterschiedlichkeit von Individuen, obwohl gerade diese ja betont werden soll.
