@@ -14,7 +14,7 @@ Neuigkeiten zur Vorlesung wird es immer hier auf dieser Seite geben.
 
 ## Wichtig: Prüfungsvorleistung
 
-Am 18.06.2020 und am 02.07.2020 müssen Gruppen jeweils ein Buch durcharbeiten und eine Vorlesung dazu gestalten.
+Am 18.06.2021 und am 02.07.2021 müssen Gruppen jeweils ein Buch durcharbeiten und eine Vorlesung dazu gestalten.
 Die Vorlesung soll das jeweilige Buch in den Bezug zu Softwarequalität setzen.
 Die von euch gestalteten Vorlesungen sind die Prüfungsvorleistung und gehen in die Bewertung der Prüfung ein.
 {: .notice--warning}
@@ -22,7 +22,7 @@ Die von euch gestalteten Vorlesungen sind die Prüfungsvorleistung und gehen in 
 Die formalen Anforderungen an die Prüfungsvorleistung werden in der ersten Vorlesung bekannt gegeben und dann hier zur Verfügung gestellt.
 Die Links zu den Büchern sind  jeweils im Abschnitt zur Vorlesung angegeben. 
 
-## Vorlesung 1 (26.03.2020): Was bedeutet Qualität für Software?
+## Vorlesung 1 (26.03.2021): Was bedeutet Qualität für Software?
 
 ### Inhalte
 
@@ -45,7 +45,7 @@ Die Links zu den Büchern sind  jeweils im Abschnitt zur Vorlesung angegeben.
   * Deutsch: [ISO 9126](https://de.wikipedia.org/wiki/ISO/IEC_912 "ISO/IEC 9126")
   * Deutsch: [ISO 25000](https://de.wikipedia.org/wiki/ISO/IEC_25000 "ISO/IEC 25000")
 
-## Vorlesung 2 (23.04.2020): Die Vermessung von Qualität
+## Vorlesung 2 (23.04.2021): Die Vermessung von Qualität
 
 In der zweiten Vorlesung dreht sich alles um das Thema Messen und Metriken.
 Beginnen mit der Frage, was eigentlich eine Messung ist gehen wir über Code-Metriken zur Vermessung ganzer Software-Systeme.
@@ -81,7 +81,7 @@ Schlussendlich schauen wir uns natürlich, was das ganze Messen für die Anwende
   * [Website zum Buch](https://www.esabuch.de/)
 * Wallmüller, Ernest (2011): [Software Quality Engineering](https://www.worldcat.org/title/software-quality-engineering-ein-leitfaden-fur-bessere-software-qualitat/oclc/1011587293), Carl Hanser Verlag
 
-## Vorlesung 3 (07.05.2020): Die Architektur von Qualität
+## Vorlesung 3 (07.05.2021): Die Architektur von Qualität
 
 ### Inhalte
 
@@ -106,19 +106,19 @@ Schlussendlich schauen wir uns natürlich, was das ganze Messen für die Anwende
 * Toth, Stefan (2019): [Vorgehensmuster für Softwarearchitektur](https://www.worldcat.org/title/vorgehensmuster-fur-softwarearchitektur-kombinierbare-praktiken-in-zeiten-von-agile-und-lean/oclc/1131809068), Carl Hanser Verlag
   * [Website zum Buch](https://www.swamuster.de/)
 
-## Vorlesung 4 (21.05.2020): Qualität aus Anwenderperspektive
+## Vorlesung 4 (21.05.2021): Qualität aus Anwenderperspektive
 
 ### Inhalte
 
 ### Material und weiterführende Links
 
-## Vorlesung 5 (04.06.2020): tbd
+## Vorlesung 5 (04.06.2021): tbd
 
 ### Inhalte
 
 ### Material und weiterführende Links
 
-## Vorlesungen 6 (18.06.2020) & 7 (02.07.2020): Prüfungsvorleistung
+## Vorlesungen 6 (18.06.2021) & 7 (02.07.2021): Prüfungsvorleistung
 
 ### Soziale Systeme und die Qualität von Software
 
