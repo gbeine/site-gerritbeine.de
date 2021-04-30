@@ -51,7 +51,7 @@ Und unabhängig davon, dass der Chaos Report jedes Jahr erklärt, dass die meist
 
 Ich hatte aber oben auch erwähnt, dass diese Fähigkeit kreuzgefährlich ist.
 Das liegt daran, dass sie uns arrogant macht.
-Wir arbeiten und sehr schnell in fremde Domänen ein, entwickeln Methoden mit denen das fix geht, zwingen andere Disziplinen, unsere Sprachen zu lernen, bauen schnell, was benötigt wird und ziehen weiter zum nächsten Projekt.
+Wir arbeiten uns sehr schnell in fremde Domänen ein, entwickeln Methoden mit denen das fix geht, zwingen andere Disziplinen, unsere Sprachen zu lernen, bauen schnell, was benötigt wird und ziehen weiter zum nächsten Projekt.
 Dieses schnelle Einarbeiten und oberflächliche Verstehen reicht in den meisten Fällen, eine ausreichend gute Software zu bauen, mit der die Menschen arbeiten können.
 Es reicht aber nie und nimmer, um ihre Aufgaben zu übernehmen.
 Schon gar nicht reicht es aus, um die Erklärungen für ein Warum auch nur annähernd zu verstehen.
