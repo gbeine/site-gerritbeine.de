@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Workshop-Experiment: Wie schreibe ich eine gute iSAQB CPSA-A-Arbeit?
+title: Workshop-Experiment - Wie schreibe ich eine gute iSAQB CPSA-A-Arbeit?
 categories: isaqb
 tags: isaqb examination software-architecture
 ---
