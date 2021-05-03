@@ -21,7 +21,7 @@ Folgende Regeln gelten:
 - Du befindest dich nicht in einem laufenden Nachbesserungsverfahren einer CPSA-Prüfung
 - Wir diskutieren nicht über Technologien und Methoden
 - Ich werde keine inhaltlichen Fragen beantworten
-- Ich übernehme damit keinerlei Haftung oder Garantie für ein Bestehen der Prüfung
+- Ich übernehme damit keinerlei Haftung **oder** Garantie für ein Bestehen der Prüfung
 
-Wer also Lust und Interesse hat, melde sich bis zum 03.04. 23:59 CEST bei mir.
+Wer also Lust und Interesse hat, melde sich bis zum 03.05. 19:00 CEST bei mir.
 Die Gewinner:innen werde informiere ich am 04.05. via E-Mail mit zoom-Link für die Session.
