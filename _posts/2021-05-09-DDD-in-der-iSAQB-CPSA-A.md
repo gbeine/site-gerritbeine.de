@@ -29,7 +29,7 @@ Aber sich einen solchen Workshop auszudenken, mit Ergebnissen, die nur eurer Fan
 
 DDD lebt von den kontextspezifischen allgegenwärtigen Sprachen. Und Software-Architektur ebenfalls. Es ist äußerst lobenswert, wenn ihr für den Kontext eurer Aufgabenstellung eine UL entwickelt, die ihr im Architekturentwurf benutzt.
 
-Aber wenn ihr dann für eben diesen Entwurf all die wunderbaren formalen Sprachen ignoriert, die das Software Engineering und geschenkt hat und nur informelle Kästen und Striche zeichnet, dann macht ihr das sofort wieder kaputt.
+Aber wenn ihr dann für eben diesen Entwurf all die wunderbaren formalen Sprachen ignoriert, die das Software Engineering uns geschenkt hat und nur informelle Kästen und Striche zeichnet, dann macht ihr das sofort wieder kaputt.
 
 Ja, UML mag kompliziert sein. Und sperrig. Aber UML ist eine UL für Software-Architekturentwürfe. Auf diesem Gebiet ist sie umgemein praktisch, weil sie stark standardisiert ist und in Situationen, in denen man nicht über die Bedeutung des informellen sprechen kann, eine ausreichende Klarheit herstellt.
 
