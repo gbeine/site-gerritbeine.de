@@ -21,7 +21,7 @@ Seit einiger Zeit kommen immer wieder Prüfungen, in denen Workshop-Methoden aus
 
 Wenn jemand ein Viertel seiner Arbeit mit der Beschreibung eines fiktiven Event Storming Workshops füllt, dann komme ich ganz schnell zu dem Schluss: Nein, vermutlich nicht.
 
-Denn das ist dann DD-Fiction, nicht DDD. Es ist völlig in Ordnung, zu erwähnen, dass ihr in der Praxis mit den Stakeholder und Nutzer:innen einen Event Storting-Workshop machen würdet. Das kann ich anerkennen, und ich denke die meistern anderen Prüfer:innen ebenfalls.
+Denn das ist dann DD-Fiction, nicht DDD. Es ist völlig in Ordnung, zu erwähnen, dass ihr in der Praxis mit den Stakeholder und Nutzer:innen einen Event Storming-Workshop machen würdet. Das kann ich anerkennen, und ich denke die meisten anderen Prüfer:innen ebenfalls.
 
 Aber sich einen solchen Workshop auszudenken, mit Ergebnissen, die nur eurer Fantasie entspringen, sagt über eure Fähigkeiten als Architekt:in rein gar nichts.
 
