@@ -11,11 +11,11 @@ Diesmal möchte ich mich zu Domain Driven Design in der Ausarbeitung zur Prüfun
 
 Ich bin Fan von DDD seit ungefähr 2005. Ich bin sogar Besitzer eines Exemplars der Erstauflage des Blauen Buches. Es hat mir in meiner Diplomarbeit 2006 unglaublich geholfen.
 
-Seitdem hat sich viel getan, handwerklich wie methodisch.
+Seitdem hat sich viel getan, handwerklich wie methodisch und DDD hat viele Fans gewonnen - auch unter den CPSA-A-Kandiat:innen. Daher diesmal ein paar Tipps aus meiner Prüferperspektive zum Einsatz von DDD in der CPSA-A-Prüfung.
 
 ## Domain Driven Fiction
 
-In einigen Aufgaben kann es sinnvoll sein, sich der Fachlichkeit mit den Mitteln von DDD zu nähern. Manchmal ist das sogar mehr als nur sinnvoll, aber das merkt ihr dann schon.
+In einigen CPSA-A-Aufgaben kann es sinnvoll sein, sich der Fachlichkeit mit den Mitteln von DDD zu nähern. Manchmal ist das sogar mehr als nur sinnvoll, aber das merkt ihr dann schon.
 
 Seit einiger Zeit kommen immer wieder Prüfungen, in denen Workshop-Methoden aus dem DDD-Kontext adaptiert werden. Das macht praktisch wenig Sinn und führt auf Seiten von uns Prüfer:innen nur zu der Frage: hat dieser Mensch verstanden, worum es dabei eigentlich geht?
 
